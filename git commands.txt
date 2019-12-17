@@ -1,3 +1,0 @@
-1.working with files
-  touch echo cat
-  gedit nano
