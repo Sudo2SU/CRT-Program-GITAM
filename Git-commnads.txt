@@ -1,0 +1,80 @@
+    3  ls
+    4  clear
+    5  cd Desktop/
+    6  pwd
+    7  ls
+    8  clear
+    9  cd ..
+   10  pwd
+   11  cd Desktop/
+   12  clear
+   13  ls
+   14  mkdir CRTBatch1
+   15  ls
+   16  clear
+   17  cd CRTBatch1/
+   18  ls
+   19  touch Data.txt
+   20  ls
+   21  cat Data.txt 
+   22  clear
+   23  echo "Line 1" > Data.txt 
+   24  cat Data.txt 
+   25  echo "Line 2" > Data.txt 
+   26  cat Data.txt 
+   27  echo "Line 3" >> Data.txt 
+   28  clear
+   29  cat Data.txt 
+   30  nano Data.txt 
+   31  cat Data.txt 
+   32  clear
+   33  nano Data.txt 
+   34  nano Data.txt 
+   35  cat Data.txt 
+   36  clear
+   37  gedit Data.txt 
+   38  clear
+   39  git --version
+   40  pwd
+   41  ls
+   42  clear
+   43  mkdir Git
+   44  ls
+   45  clear
+   46  git init
+   47  ls
+   48  ls -a
+   49  clear
+   50  git status
+   51  git add Data.txt 
+   52  git status
+   53  clear
+   54  git commit -m "First Commit"
+   55  git config --global user.email "madishettyanilkumar9@gmail.com"
+   56  git config --global user.name "Anilkumar"
+   57  git config user.email
+   58  git config user.name
+   59  clear
+   60  git commit -m "First Commit"
+   61  git status
+   62  clear
+   63  mkdir CRT-Program
+   64  mkdir remote help
+   65  clear
+   66  git remote help
+   67  clear
+   68  git remote add CRT-Program https://github.com/Anil-a431/CRT-Program
+   69  git remote show
+   70  git remote --origin
+   71  clear
+   72  git remote -v
+   73  git pull CRT-Program master
+   74  git remote show
+   75  git pull CRT-Program master
+   76  clear
+   77  git push -u CRT-Program 
+   78  git push --set-upstream CRT-Program master
+   79  git push -f --set-upstream CRT-Program master
+   80  history
+   81  history 80 
+   82  history 80  > Git-commnads.txt
