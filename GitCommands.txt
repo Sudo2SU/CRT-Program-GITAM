@@ -1,0 +1,23 @@
+1.working with files
+  touch echo cat
+  gedit nano
+
+2.git remote : To add the repository using URL.
+
+3. push & pull(fetch) : Commands used to add and recieve data to and fro 
+                         from github and local computer(vice-versa).
+
+4. Fetch the data : 
+
+   git pull <Foldername>
+   git pull Gitam-CRT
+
+5. Push the data :
+
+   git push -u <Foldername>
+   git push -u Gitam-CRT
+
+   git push -f --set-upstream <Foldername>
+   <branchname>
+   git push -f --set -upstream Gitam-CRT master
+

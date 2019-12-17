@@ -1,0 +1,10 @@
+python 
+crt
+git
+github
+still data is not uploaded to my git account
+
+Module 1: Basic command.s
+Module 2: Git commands.
+Module 3: Data Synchronization (synchronizing the data from local 
+                                  computer to github).
